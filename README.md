@@ -43,12 +43,12 @@ To run the project, you need to install the following programs:
 
 Use Gitpod, a free online development environment for GitHub.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Suspir0n/extractorlead.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Suspir0n/extractorleads.git)
 
 Or use the code locally using:
 ```
 $ cd "directory of your choice"
-$ git clone https://github.com/Suspir0n/extractorlead.git
+$ git clone https://github.com/Suspir0n/extractorleads.git
 ```
 
 ### Building
